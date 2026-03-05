@@ -8,13 +8,7 @@ test
 Hola
 
 
-Jorge, probando!
-JJ
-Martin
-
 
 
 Prueba rama
 
-
-Gabriel Hau
